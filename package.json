@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/hoffmangnikolas/hoffmangnikolas.github.io"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
+  "author": "Nikolas Hoffman",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://hoffmangnikolas.github.io",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
